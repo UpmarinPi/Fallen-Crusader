@@ -1,0 +1,73 @@
+-スクリプトについて-
+
+Script/Matsumotoの中に私の作成したファイルが入っています。
+主にUI, システムをしており、/Mapsなどは他2人の手伝いです。
+
+★…特に頑張ったスクリプト
+
+
+
+/Datas
+  /Debugs
+    /ActiveAllMagics.cs
+    /ForDebug.cs
+    /manaMax.cs
+  /Options
+    /EditOptions.cs
+    /KeyBindings.cs
+  /EditData.cs
+
+/Maps
+  /Background.cs
+  /BGCamera.cs
+  /SecretChildVer.cs
+  /SecretPlace.cs
+
+/SkillInfos
+  /MagicList.cs
+  /Magics.cs
+  /PassiveList.cs
+  /Passives.cs
+  /SelectMagic.cs
+  /SelectMagicSound.cs
+
+/UI
+  /GameOver
+    /GameOverButtonUI.cs
+    /GameOverPanel.cs
+    /GameOverUI.cs
+  /Magics
+    /MagicInfoUI.cs
+    /SelectMagicUI.cs★
+    /TurningMagicUI.cs★
+  /Pause
+    /Options
+      /KeyBinds
+        /OneOfKeyBind.cs
+        /OptionKeyBind.cs
+        /OptionSetKeyBind.cs
+      /DisplayOption.cs
+      /OptionMenu.cs
+    /PlayerBar
+      /EffectBar.cs
+      /HPBar.cs
+      /HPBarInPause.cs
+      /ManaBar.cs
+      /ManaBarInPause.cs
+      /ManaScaleBar.cs
+    /Skills
+      /SkillInfoInPause.cs
+      /SkillsInPause.cs★
+      /SkillVideoController.cs
+    /HideInPause.cs
+    /InfoInPauseController.cs
+    /Pause.cs
+    /PauseButton.cs
+    /PauseSound.cs
+  /Title
+    /FadeToDemo.cs
+    /Opening.cs
+    /PointerOff.cs
+    /TitleButton.cs
+    /TitleStart.cs
+  
